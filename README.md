@@ -1,7 +1,7 @@
 # Artem Bryzh
 Exploring IT possibilities and finding my path.
 
-- 🔭 I’m currently finishing my studies at Code Institute, awaiting my Full Stack Developer diploma, and actively seeking my first job in IT.
+- 🔭 I’m currently finishing my studies at Code Institute, awaiting my Level 5 Full Stack Developer diploma, and actively seeking my first job in IT.
 - 🌱 I’m currently learning React and REST to build dynamic web applications.
 - 💡 Experienced in HTML, CSS, JavaScript, Django, Python, and more. I also have experience with graphic design and video editing tools, including Adobe Photoshop and Final Cut Pro.
 - 📫 How to reach me: [pagaslav@gmail.com](mailto:pagaslav@gmail.com) | [LinkedIn](https://www.linkedin.com/in/вашusername)
