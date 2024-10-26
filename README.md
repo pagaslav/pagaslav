@@ -25,3 +25,4 @@ Exploring IT possibilities and finding my path.
 ![Google API](https://img.shields.io/badge/-Google%20API-4285F4?style=flat&logo=google&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
 ![Flatpickr](https://img.shields.io/badge/-Flatpickr-FF69B4?style=flat&logo=javascript&logoColor=white)
+![WhiteNoise](https://img.shields.io/badge/-WhiteNoise-222222?style=flat&logo=django&logoColor=white)
