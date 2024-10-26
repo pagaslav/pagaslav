@@ -24,3 +24,4 @@ Exploring IT possibilities and finding my path.
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![Google API](https://img.shields.io/badge/-Google%20API-4285F4?style=flat&logo=google&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
+![Flatpickr](https://img.shields.io/badge/-Flatpickr-FF69B4?style=flat&logo=javascript&logoColor=white)
