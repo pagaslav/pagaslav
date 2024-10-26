@@ -1,5 +1,5 @@
 # Artem Bryzh
-
+Exploring IT possibilities and finding my path.
 <!--
 **pagaslav/pagaslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
