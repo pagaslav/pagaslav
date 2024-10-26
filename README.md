@@ -26,3 +26,8 @@ Exploring IT possibilities and finding my path.
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white)
 ![Flatpickr](https://img.shields.io/badge/-Flatpickr-FF69B4?style=flat&logo=javascript&logoColor=white)
 ![WhiteNoise](https://img.shields.io/badge/-WhiteNoise-222222?style=flat&logo=django&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pagaslav&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pagaslav&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pagaslav&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
