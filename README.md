@@ -16,6 +16,7 @@ Exploring IT possibilities and finding my path.
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![C Basics](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat&logo=jinja&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
